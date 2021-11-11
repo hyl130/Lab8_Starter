@@ -1,5 +1,7 @@
 # Lab 8 - Starter
 
+Hyunjo Lee - A14978108
+
 1. I would put automated test for the Recipe project within the Github action so that every time we push the code, test automatically runs. We can also have the test running the whole repository every night after making changes.
 
 2. No
